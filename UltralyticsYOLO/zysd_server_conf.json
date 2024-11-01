@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 8000,
+  "yolo_det_abc": "UltralyticsYOLO/runs/server/train13/weights/best.pt",
+  "yolo_det_table": "UltralyticsYOLO/runs/server/classify_table_2/weights/best.pt",
+  "yolo_det_main_table_elem": "UltralyticsYOLO/runs/server/main_elem_3/weights/best.pt",
+  "yolo_det_index_table_elem": "UltralyticsYOLO/runs/server/index_elem_1/weights/best.pt",
+  "yolo_det_list_table_elem": "UltralyticsYOLO/runs/server/list_elem_3/weights/best.pt",
+  "yolo_det_tat": "UltralyticsYOLO/runs/server/train14/weights/best.pt"
+}

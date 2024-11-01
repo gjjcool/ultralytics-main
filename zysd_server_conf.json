@@ -1,0 +1,26 @@
+{
+  "host": "127.0.0.1",
+  "port": 8001,
+  "fastapi_workers": 1,
+  "yolo_det_abc": "UltralyticsYOLO/runs/server/train13/weights/best.pt",
+  "yolo_det_table": "UltralyticsYOLO/runs/server/classify_table_4/weights/best.pt",
+  "yolo_det_main_table_elem": "UltralyticsYOLO/runs/server/main_elem_3/weights/best.pt",
+  "yolo_det_index_table_elem": "UltralyticsYOLO/runs/server/index_elem_1/weights/best.pt",
+  "yolo_det_list_table_elem": "UltralyticsYOLO/runs/server/list_elem_3/weights/best.pt",
+  "yolo_det_tat": "UltralyticsYOLO/runs/server/train14/weights/best.pt",
+  "yolo_det_abc_info": {
+    "0": 1
+  },
+  "yolo_det_abc_device": 0,
+  "yolo_det_abc_2_device": 0,
+  "yolo_det_table_device": 0,
+  "yolo_det_main_table_elem_device": 0,
+  "yolo_det_index_table_elem_device": 0,
+  "yolo_det_list_table_elem_device": 0,
+  "yolo_det_tat_device": 0,
+  "padd_rec_model_dir": "C:\\Users\\15420\\Desktop\\ultralytics-main-2\\PaddleOCR\\model\\",
+  "celery_concurrency": 1000,
+  "celery_pool": "solo",
+  "celery_workers": 1,
+  "celery_instance_num": 7
+}
